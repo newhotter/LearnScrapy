@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 __author__ = 'Hao'
 
-import urllib
 import urllib2
 import re
 
