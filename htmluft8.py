@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-__author__ = 'Hao'
+__author__ = 'Haoa'
 import os
 import re
 b = ''' <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> </head>'''
