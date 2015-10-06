@@ -4,8 +4,6 @@ __author__ = 'Hao'
 import urllib
 import urllib2
 import re
-import thread
-import time
 
 
 # 糗事百科爬虫类
